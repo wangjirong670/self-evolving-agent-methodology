@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "自进化 Agent 的工程方法论：一次对隐藏系统的完整解剖、活体观测与运行时审计"
+message: "If you use this research write-up, please cite it using these metadata."
+type: article
+authors:
+  - name: "Independent Research Collective"
+    alias: "research-collective"
+abstract: >-
+  A five-day consumer-side study of a self-evolving agent framework
+  distributed inside a desktop AI product installer: static anatomy,
+  live-lab observation, and runtime audit with independent recomputation.
+  Evidence is graded E1–E4. No third-party source code is redistributed.
+keywords:
+  - self-evolving agent
+  - agent harness
+  - anti-cheating
+  - runtime audit
+  - software reverse engineering
+  - empirical software engineering
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/example/placeholder"  # 建仓后替换
+version: "1.0.0"
+date-released: "2026-10-03"
+preferred-citation:
+  type: article
+  title: "自进化 Agent 的工程方法论：一次对隐藏系统的完整解剖、活体观测与运行时审计"
+  authors:
+    - name: "Independent Research Collective"
+  year: 2026
+  month: 10
+  version: "1.0.0"
+  license: CC-BY-NC-SA-4.0
