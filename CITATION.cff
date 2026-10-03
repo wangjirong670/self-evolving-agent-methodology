@@ -18,7 +18,7 @@ keywords:
   - software reverse engineering
   - empirical software engineering
 license: CC-BY-NC-SA-4.0
-repository-code: "https://github.com/example/placeholder"  # 建仓后替换
+repository-code: "https://github.com/wangjirong670/self-evolving-agent-methodology"  # 建仓后替换
 version: "1.0.0"
 date-released: "2026-10-03"
 preferred-citation:
@@ -30,3 +30,4 @@ preferred-citation:
   month: 10
   version: "1.0.0"
   license: CC-BY-NC-SA-4.0
+
